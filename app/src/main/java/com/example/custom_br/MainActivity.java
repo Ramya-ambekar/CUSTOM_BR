@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         IntentFilter filter = new IntentFilter("com.example.custom_br");
         registerReceiver(ex,filter);
         //testinggggg
-        //tweEGzgdfhsh
+
     }
 
     @Override
